@@ -1,0 +1,9 @@
+seaborn
+streamlit
+numpy
+matplotlib
+pandas
+typing_extensions
+tensorflow
+scikit-learn
+Pylance
